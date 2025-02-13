@@ -5,7 +5,7 @@ body {
 #container {
     
     background-color: aliceblue;
-width: 1200px;
+width: 65%;
     margin: 20px auto;
     border: 2px solid black;
     padding: 20px;
@@ -32,6 +32,10 @@ nav {
     background-color: #000;
     border-radius: 10px;
     
+}
+
+main{
+display: flex;
 }
 
 nav ul{

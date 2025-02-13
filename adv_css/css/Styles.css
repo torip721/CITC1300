@@ -24,6 +24,16 @@ nav {
     
 }
 
+#coli1{
+  width: 50%;
+    border: 2px solid black;
+}
+
+#coli2{
+  width: 50%;
+    border: 2px solid black;
+}
+
 nav a {
     font-size: 24px;
     color: black
