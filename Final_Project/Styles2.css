@@ -1,8 +1,33 @@
 header{
-    font-size: x-large;
-    color: #002244
+    font-size: 55px;
+    color: #002244;
+    text-align-last: center;
 }
 
 background{
-    color: #002244
+    color: #6699CC;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+   border: 4px solid #002244;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav li a {
+    display: inline;
+    color: #002244;
+    font-size: 20px;
+    font-weight: bold;
+    border-block-color: #6699CC;
 }
