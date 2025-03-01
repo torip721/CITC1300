@@ -1,11 +1,11 @@
 header{
     font-size: 55px;
-    color: #002244;
+    color: #073980;
     text-align-last: center;
 }
 
-background{
-    color: #6699CC;
+style{
+    background-color: #6082B6;
 }
 
 img {
@@ -29,5 +29,10 @@ nav li a {
     color: #002244;
     font-size: 20px;
     font-weight: bold;
-    border-block-color: #6699CC;
+    text-align-last: center;
+}
+
+hr{
+    size: 37px;
+    font-weight: bold;
 }
