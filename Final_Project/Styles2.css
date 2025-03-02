@@ -36,3 +36,26 @@ hr{
     size: 37px;
     font-weight: bold;
 }
+
+
+#container {
+    
+    background-color: #7c94b9;
+width: 95%;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+
+#banner{
+width: 100%;
+}
+
+.heading_style{
+    text-shadow: 2px 1px 2px #000;
+}
+
+body {
+    background-color: #ffffff
+}
